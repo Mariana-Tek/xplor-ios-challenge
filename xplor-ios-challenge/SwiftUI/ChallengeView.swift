@@ -29,8 +29,6 @@ import SwiftUI
 
 struct ChallengeView: View {
 
-    @ObservedObject var viewModel = ChallengeViewModel()
-
     var body: some View {
         VStack {
             Text("Hello World")

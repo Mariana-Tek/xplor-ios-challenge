@@ -27,7 +27,7 @@ protocol ChallengeViewProtocal {}
 
  */
 
-class ChallengeViewModel: ObservableObject{
+class ChallengeViewModel {
     var jsonChallenge: JsonChallenge = JsonChallenge()
 
     func buttonPressed() {
