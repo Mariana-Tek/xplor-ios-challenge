@@ -106,7 +106,7 @@
 		E9BD20BB2AA247FC00D9546A /* xplor-ios-challenge */ = {
 			isa = PBXGroup;
 			children = (
-				E9BD20E82AA249E500D9546A /* Challanges */,
+				E9BD20E82AA249E500D9546A /* Challenges */,
 				E9BD20E72AA249CE00D9546A /* JSON */,
 				E9BD20E62AA2498000D9546A /* SwiftUI */,
 				E9BD20BC2AA247FC00D9546A /* xplor_ios_challengeApp.swift */,
@@ -161,11 +161,11 @@
 			path = JSON;
 			sourceTree = "<group>";
 		};
-		E9BD20E82AA249E500D9546A /* Challanges */ = {
+		E9BD20E82AA249E500D9546A /* Challenges */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			path = Challanges;
+			path = Challenges;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
