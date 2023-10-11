@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D30D44E22AD72789000ACB6E /* SwiftChallenge.rtf in Resources */ = {isa = PBXBuildFile; fileRef = D30D44E12AD72789000ACB6E /* SwiftChallenge.rtf */; };
 		E9BD20BD2AA247FC00D9546A /* xplor_ios_challengeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9BD20BC2AA247FC00D9546A /* xplor_ios_challengeApp.swift */; };
 		E9BD20C12AA247FD00D9546A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9BD20C02AA247FD00D9546A /* Assets.xcassets */; };
 		E9BD20C42AA247FD00D9546A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9BD20C32AA247FD00D9546A /* Preview Assets.xcassets */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D30D44E12AD72789000ACB6E /* SwiftChallenge.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = SwiftChallenge.rtf; sourceTree = "<group>"; };
 		E9BD20B92AA247FC00D9546A /* xplor-ios-challenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "xplor-ios-challenge.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9BD20BC2AA247FC00D9546A /* xplor_ios_challengeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xplor_ios_challengeApp.swift; sourceTree = "<group>"; };
 		E9BD20C02AA247FD00D9546A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 		E9BD20B02AA247FC00D9546A = {
 			isa = PBXGroup;
 			children = (
+				D30D44E12AD72789000ACB6E /* SwiftChallenge.rtf */,
 				E9BD20BB2AA247FC00D9546A /* xplor-ios-challenge */,
 				E9BD20CC2AA247FE00D9546A /* xplor-ios-challengeTests */,
 				E9BD20D62AA247FE00D9546A /* xplor-ios-challengeUITests */,
@@ -274,6 +277,7 @@
 				E9BD20F62AA655EC00D9546A /* jsonDataClosure.json in Resources */,
 				E9BD20C42AA247FD00D9546A /* Preview Assets.xcassets in Resources */,
 				E9BD20C12AA247FD00D9546A /* Assets.xcassets in Resources */,
+				D30D44E22AD72789000ACB6E /* SwiftChallenge.rtf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
