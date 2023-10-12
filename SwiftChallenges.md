@@ -23,7 +23,7 @@ let d = ["john", "james", "vincent", "louis"]
 let x = d.sort()
 print(x)
 
-## 4. What will be the value of productBarcode
+## 4. What will be the value of productBarcode?
 
 enum Barcode {
     case upc(Int, Int, Int, Int)
@@ -40,21 +40,21 @@ case .qrCode(let productCode):
     print("QR code: \(productCode).")
 }
 
-## 5. What will be the value of earthsOrder
+## 5. What will be the value of earthsOrder?
 
 enum Planet: Int {
     case mercury = 1, venus, earth, mars, jupiter, saturn, uranus, neptune
 }
 let earthsOrder = Planet.earth.rawValue
 
-## 6. What will be the value of sunsetDirection
+## 6. What will be the value of sunsetDirection?
 
 enum CompassPoint: String {
     case north, south, east, west
 }
 let sunsetDirection = CompassPoint.west.rawValue
 
-## 7. What is the value of reversedNames
+## 7. What is the value of reversedNames?
 
 let names = ["Chris", "Alex", "Ewa", "Barry", "Daniella"]
 func backward(_ s1: String, _ s2: String) -> Bool {
@@ -80,7 +80,7 @@ struct Color {
 
 let newColor = Color(0.3, 1.1, 4.0)
 
-## 9. What will be the value of lightSwitch afterr the code is executed?
+## 9. What will be the value of lightSwitch after the code is executed?
 
 enum OnOffSwitch: Togglable {
     case off, on
