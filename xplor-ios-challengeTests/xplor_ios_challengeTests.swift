@@ -1,9 +1,6 @@
 //
 //  xplor_ios_challengeTests.swift
 //  xplor-ios-challengeTests
-//
-//  Created by devon jerothe on 9/1/23.
-//
 
 import XCTest
 @testable import xplor_ios_challenge

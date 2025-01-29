@@ -1,18 +1,8 @@
 //
 //  JsonChallenge.swift
 //  xplor-ios-challenge
-//
-//  Created by devon jerothe on 9/1/23.
-//
 
 import Foundation
-
-/*
-Use this class to parse both JSON files and return the results in the desired way.
-
-      1. `loadJsonModelClosure()` should return the parsed json inside of a closure
-      2. `loadJsonModelDelegate()` should return the parse json through a delegate method
- */
 
 class JsonChallenge {
 
